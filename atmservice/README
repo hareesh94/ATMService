@@ -1,0 +1,6 @@
+Build Instructions:
+1. Download the project and next go to the project directory.
+2. run command maven clean install.
+3. atmservice.war file is generated in target.
+4. Copy the war file to WEBAPPS folder of tomcat server and start the server.
+5. Use postman to hit the service.
